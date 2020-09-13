@@ -7,7 +7,7 @@ const Footer = () => {
         <footer className="bg-dark text-white p-3 p-lg-5">
             <p className="text-center mb-0">
             
-            <span>🍵</span> by GreenTeam for Alyra
+             by GreenTeam for Alyra
         </p>
         </footer>
     )
